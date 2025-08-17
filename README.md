@@ -1,3 +1,3 @@
-# Hi Everyone ; I am newly learner programmer
+# Hi Everyone ; I'm Full Stack Developer
 # Author : Jatin Sharma
-# now I am studying about python!
+# Still Learning.....
